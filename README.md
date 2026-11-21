@@ -40,11 +40,6 @@ The assessment incorporates literature-based research, conceptual engineering mo
 
 The complete research report includes technical discussions, geological illustrations, engineering diagrams, comparative tables, and recommendations for future infrastructure development.
 
-## Academic Context
-
-This individually expanded, AI-assisted portfolio report builds upon an original collaborative Engineering Geology project completed at McMaster University. Original contributions are acknowledged within the report.
-
-This study is conceptual and does not represent an approved development proposal or a verified site investigation.
 
 ## Author
 
